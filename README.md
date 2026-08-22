@@ -17,7 +17,7 @@
 :alt: Awesome
 
 .. image:: <https://img.shields.io/badge/ADBench-benchmark_results-pink>
-:target: <https://github.com/Minqi824/ADBench> ⭐ 1,020 | 🐛 19 | 🌐 Python | 📅 2026-01-08
+:target: <https://github.com/Minqi824/ADBench> ⭐ 1,021 | 🐛 19 | 🌐 Python | 📅 2026-01-08
 :alt: Benchmark
 
 ***
@@ -888,4 +888,4 @@ can be found `data-mining-conferences <https://github.com/yzhao062/data-mining-c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
