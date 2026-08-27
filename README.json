@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T01:04:42.532Z",
-    "original_repository": "yzhao062/anomaly-detection-resources",
-    "original_repository_id": 133717148,
+    "last_updated": "2026-08-27T11:21:30.242Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 133717148,
+      "language": "Python",
+      "last_commit": "2026-03-02T04:42:20Z",
+      "owner": "yzhao062",
+      "repo": "anomaly-detection-resources",
+      "stars": 9370
+    },
     "original_repository_sha": "5ad16ee816bc23c9546f47da9f52388287d7d4b9",
     "enhanced_repository": "enhansome/enhansome-anomaly-detection-resources",
     "enhanced_repository_description": null,
