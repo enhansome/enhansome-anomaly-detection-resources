@@ -1,15 +1,38 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:12.151Z",
+    "last_updated": "2026-08-29T04:12:59.726Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
+      "homepage": null,
       "id": 133717148,
       "language": "Python",
+      "license": "AGPL-3.0",
       "last_commit": "2026-03-02T04:42:20Z",
+      "open_issues": 14,
       "owner": "yzhao062",
       "repo": "anomaly-detection-resources",
-      "stars": 9370
+      "stars": 9370,
+      "topics": [
+        "anomaly-detection",
+        "awesome",
+        "awesome-list",
+        "data-mining",
+        "fraud",
+        "fraud-detection",
+        "graph-neural-networks",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "outlier",
+        "outlier-detection",
+        "outlier-ensembles",
+        "time-series-analysis",
+        "unsupervised-learning",
+        "vlm",
+        "vlms"
+      ]
     },
     "original_repository_sha": "5ad16ee816bc23c9546f47da9f52388287d7d4b9",
     "enhanced_repository": "enhansome/enhansome-anomaly-detection-resources",
