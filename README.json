@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-01T00:47:50.698Z",
+    "last_updated": "2026-09-01T23:34:10.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
@@ -13,7 +13,7 @@
       "open_issues": 14,
       "owner": "yzhao062",
       "repo": "anomaly-detection-resources",
-      "stars": 9370,
+      "stars": 9373,
       "topics": [
         "anomaly-detection",
         "awesome",

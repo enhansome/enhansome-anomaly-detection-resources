@@ -1,15 +1,15 @@
 # Awesome Anomaly Detection Learning Resources with stars
 
 .. image:: <https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg>
-:target: <https://github.com/yzhao062/anomaly-detection-resources/stargazers> ⭐ 9,370 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+:target: <https://github.com/yzhao062/anomaly-detection-resources/stargazers> ⭐ 9,373 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 :alt: GitHub stars
 
 .. image:: <https://img.shields.io/github/forks/yzhao062/anomaly-detection-resources.svg?color=blue>
-:target: <https://github.com/yzhao062/anomaly-detection-resources/network> ⭐ 9,370 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+:target: <https://github.com/yzhao062/anomaly-detection-resources/network> ⭐ 9,373 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 :alt: GitHub forks
 
 .. image:: <https://img.shields.io/github/license/yzhao062/anomaly-detection-resources.svg?color=blue>
-:target: <https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE> ⭐ 9,370 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+:target: <https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE> ⭐ 9,373 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 :alt: License
 
 .. image:: <https://awesome.re/badge-flat2.svg>
@@ -17,7 +17,7 @@
 :alt: Awesome
 
 .. image:: <https://img.shields.io/badge/ADBench-benchmark_results-pink>
-:target: <https://github.com/Minqi824/ADBench> ⭐ 1,021 | 🐛 19 | 🌐 Python | 📅 2026-01-08
+:target: <https://github.com/Minqi824/ADBench> ⭐ 1,023 | 🐛 19 | 🌐 Python | 📅 2026-01-08
 :alt: Benchmark
 
 ***
