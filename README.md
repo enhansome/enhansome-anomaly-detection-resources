@@ -1,15 +1,15 @@
 # Awesome Anomaly Detection Learning Resources with stars
 
 .. image:: <https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources.svg>
-:target: <https://github.com/yzhao062/anomaly-detection-resources/stargazers> ⭐ 9,393 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+:target: <https://github.com/yzhao062/anomaly-detection-resources/stargazers> ⭐ 9,394 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 :alt: GitHub stars
 
 .. image:: <https://img.shields.io/github/forks/yzhao062/anomaly-detection-resources.svg?color=blue>
-:target: <https://github.com/yzhao062/anomaly-detection-resources/network> ⭐ 9,393 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+:target: <https://github.com/yzhao062/anomaly-detection-resources/network> ⭐ 9,394 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 :alt: GitHub forks
 
 .. image:: <https://img.shields.io/github/license/yzhao062/anomaly-detection-resources.svg?color=blue>
-:target: <https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE> ⭐ 9,393 | 🐛 14 | 🌐 Python | 📅 2026-03-02
+:target: <https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE> ⭐ 9,394 | 🐛 14 | 🌐 Python | 📅 2026-03-02
 :alt: License
 
 .. image:: <https://awesome.re/badge-flat2.svg>
@@ -17,7 +17,7 @@
 :alt: Awesome
 
 .. image:: <https://img.shields.io/badge/ADBench-benchmark_results-pink>
-:target: <https://github.com/Minqi824/ADBench> ⭐ 1,023 | 🐛 19 | 🌐 Python | 📅 2026-01-08
+:target: <https://github.com/Minqi824/ADBench> ⭐ 1,022 | 🐛 19 | 🌐 Python | 📅 2026-01-08
 :alt: Benchmark
 
 ***
@@ -264,7 +264,7 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 **Anomaly Detection Meta-Analysis Benchmarks**\ : <https://ir.library.oregonstate.edu/concern/datasets/47429f155>
 
-**Skoltech Anomaly Benchmark (SKAB)**\ : <https://github.com/waico/skab> ⭐ 405 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-08-11
+**Skoltech Anomaly Benchmark (SKAB)**\ : <https://github.com/waico/skab> ⭐ 406 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-08-11
 
 ***
 
