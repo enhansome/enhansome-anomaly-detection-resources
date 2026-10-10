@@ -17,7 +17,7 @@
 :alt: Awesome
 
 .. image:: <https://img.shields.io/badge/ADBench-benchmark_results-pink>
-:target: <https://github.com/Minqi824/ADBench> ⭐ 1,024 | 🐛 19 | 🌐 Python | 📅 2026-01-08
+:target: <https://github.com/Minqi824/ADBench> ⭐ 1,025 | 🐛 19 | 🌐 Python | 📅 2026-01-08
 :alt: Benchmark
 
 ***
@@ -264,7 +264,7 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 **Anomaly Detection Meta-Analysis Benchmarks**\ : <https://ir.library.oregonstate.edu/concern/datasets/47429f155>
 
-**Skoltech Anomaly Benchmark (SKAB)**\ : <https://github.com/waico/skab> ⭐ 409 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-11
+**Skoltech Anomaly Benchmark (SKAB)**\ : <https://github.com/waico/skab> ⭐ 408 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-11
 
 ***
 
@@ -888,4 +888,4 @@ can be found `data-mining-conferences <https://github.com/yzhao062/data-mining-c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
